@@ -1,0 +1,7 @@
+H:\Computer Science\Practice Programming\primeNumberChecker\bin\Debug\primeNumberChecker.exe.config
+H:\Computer Science\Practice Programming\primeNumberChecker\bin\Debug\primeNumberChecker.exe
+H:\Computer Science\Practice Programming\primeNumberChecker\bin\Debug\primeNumberChecker.pdb
+H:\Computer Science\Practice Programming\primeNumberChecker\obj\Debug\primeNumberChecker.csprojAssemblyReference.cache
+H:\Computer Science\Practice Programming\primeNumberChecker\obj\Debug\primeNumberChecker.csproj.CoreCompileInputs.cache
+H:\Computer Science\Practice Programming\primeNumberChecker\obj\Debug\primeNumberChecker.exe
+H:\Computer Science\Practice Programming\primeNumberChecker\obj\Debug\primeNumberChecker.pdb
